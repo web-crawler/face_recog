@@ -219,25 +219,6 @@ for i in range(0,10):
 cv2.destroyAllWindows()
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
